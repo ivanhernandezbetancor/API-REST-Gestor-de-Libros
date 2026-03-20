@@ -3,24 +3,26 @@
 
 
 ## CAPTURA -> Entidad Libro
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0ed81e2d-3530-49c8-8e1f-7fce740a9711" />
+
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/6b5b2f40-4cda-4fee-bb8e-d8ce18b4f067" />
 
 
 ## CAPTURA ->  GET	/api/v1/libros
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/93c76586-8903-4747-9456-68e626c3fbef" />
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/953f57c8-43f4-4086-aaf0-07b3d30af80e" />
 
 
 
 ## CAPTURA ->  GET	/api/v1/libros/{id}
-<img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/ae3da4ef-5caf-48f3-83d5-094e5a04019b" />
+
+<img width="1906" height="1079" alt="image" src="https://github.com/user-attachments/assets/bff5f373-c17c-4c2c-8ddf-405452f555ca" />
 
 
 
 
 ## CAPTURA ->  POST	/api/v1/libros
-<img width="1919" height="851" alt="image" src="https://github.com/user-attachments/assets/289ce4c2-ae97-4e48-b24f-91b105861a62" />
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e6dd9e62-4525-4f39-addb-9ddf86207a56" />
 
 
 
