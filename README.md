@@ -13,9 +13,13 @@
 
 
 ## CAPTURA ->  GET	/api/v1/libros/{id}
+<img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/ae3da4ef-5caf-48f3-83d5-094e5a04019b" />
+
+
 
 
 ## CAPTURA ->  POST	/api/v1/libros
+
 
 
 
