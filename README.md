@@ -7,6 +7,7 @@
 
 
 ## CAPTURA ->  GET	/api/v1/libros
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/93c76586-8903-4747-9456-68e626c3fbef" />
 
 
 
