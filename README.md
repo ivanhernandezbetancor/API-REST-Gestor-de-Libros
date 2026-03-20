@@ -1,0 +1,2 @@
+ // 📚 API REST — Gestor de Libros
+// Vas a crear una API REST completa en Spring Boot conectada a MySQL para gestionar un catálogo de libros. La actividad demuestra que dominas el flujo completo: entidad → repositorio → servicio → controlador → base de datos.
